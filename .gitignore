@@ -20,10 +20,10 @@ env/
 venv/
 
 # Data files (optional, if they're too large or regenerated)
-data/
+#data/
 raw_reviews.csv
 clean_reviews.csv
-*.txt
+#*.txt
 
 # Logs
 *.log
